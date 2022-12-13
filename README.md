@@ -1,13 +1,13 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Daniel</h1>
+<h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
-- ðŸ”­ Iâ€™m currently working on **C6 Bank**
+- 🔭 I’m currently working on **C6 Bank**
 
-- ðŸŒ± Iâ€™m currently learning **Rustlang and Kotlin**
+- 🌱 I’m currently learning **Rustlang and Kotlin**
 
-- ðŸ’¬ Ask me about **Java and Spring Boot**
+- 💬 Ask me about **Java and Spring Boot**
 
-- ðŸ“« How to reach me **danielhgimenez027@gmail.com**
+- 📫 How to reach me **danielhgimenez027@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
