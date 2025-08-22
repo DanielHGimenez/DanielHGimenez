@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
-- 🔭 I’m currently working on **FCamara Group**
+- 🔭 I’m currently working on **Accenture**
 
 - 🌱 I’m currently learning **Rustlang and Golang**
 
